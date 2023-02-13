@@ -1,0 +1,75 @@
+.fist-div {
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  margin: 200px 600px 10px 600px;
+}
+.first-p {
+  padding: 2px 25px;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+}
+.box {
+  margin: auto;
+  width: 1200px;
+  height: 230px;
+}
+.first-box {
+  height: 90px;
+  width: 1200px;
+  background-color: #eeee;
+}
+#fist-input {
+  margin: 2px 450px;
+  width: 345px;
+  height: 12px;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+}
+.button-div {
+  margin: 1px 500px;
+  width: 380px;
+}
+button {
+  width: 100px;
+  padding: 1px 10px 1px 10px;
+  font-size: 13px;
+  text-decoration: none;
+  margin: 2px;
+  cursor: pointer;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+  border-radius: 6px;
+  border-width: 1px;
+}
+.Box {
+  text-align: center;
+  width: 150px;
+  height: 100px;
+  margin: 3px;
+  padding-inline-start: 0px;
+}
+#first {
+  background: #7ee5da;
+  float: left;
+  width: 450px;
+}
+#second {
+  background: #70ccc2;
+  width: 200px;
+  float: left;
+}
+#third {
+  background: #62b3aa;
+  width: 530px;
+  padding: 0px;
+  float: left;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.footer-p {
+  text-align: center;
+  margin-top: 10px;
+}
